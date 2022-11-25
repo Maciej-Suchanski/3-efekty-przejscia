@@ -1,0 +1,31 @@
+div{
+    width: 150px;
+    height: 150px;
+    margin:auto auto 10px;
+    transition: all 2s;
+}
+  
+#div1{
+    background-color: red;
+}
+
+#div1:hover{
+    width: 300px;
+}
+  
+#div2{
+    background-color: blue;
+}
+
+#div2:hover{
+    height: 300px;
+}
+  
+#div3{
+    background-color: green;
+}
+
+#div3:hover{
+    width: 300px;
+    height: 300px;
+}
